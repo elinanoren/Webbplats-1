@@ -17,7 +17,7 @@ Jag lärde mig bland annat att:
 
 Jag valde att visa bilder av mina egna målningar på webbplatsen för att jag skulle vara säker på att jag inte tog någon som hade copyright.  
 
-Akvarellmålning, "_Här finns lugnet_", 56 x 76 cm, 5 000kr.<span style="color:red"> ●SÅLD</span>
+Akvarellmålning, "_Här finns lugnet_", 56 x 76 cm.
 ![Bild av tallar i solnedgång](images/Tallar.jpg)
 
 ## Klona repository
